@@ -19,7 +19,7 @@ const WellRound = () => {
       <p className="text-lg text-gray-700 mb-4">Attending local meetups and industry conferences helps me network with other professionals, learn about the latest trends, and gain new perspectives. It&apos;s a great way to stay inspired and motivated.</p>
 
       <h2 className="text-2xl font-semibold mb-2 text-gray-800">5. Read Books</h2>
-      <p className="text-lg text-gray-700 mb-4">I read books on programming, software engineering, and personal development. Books like "Clean Code" by Robert C. Martin and "The Pragmatic Programmer" by Andrew Hunt and David Thomas provide valuable insights and best practices.</p>
+      <p className="text-lg text-gray-700 mb-4">I read books on programming, software engineering, and personal development. Books like &quot;Clean Code&quot; by Robert C. Martin and &quot;The Pragmatic Programmer&quot; by Andrew Hunt and David Thomas provide valuable insights and best practices.</p>
 
       <h2 className="text-2xl font-semibold mb-2 text-gray-800">6. Teach and Mentor</h2>
       <p className="text-lg text-gray-700 mb-4">Teaching others and mentoring junior developers reinforces my knowledge and helps me learn new ways to explain complex concepts. It&apos;s also a rewarding way to give back to the programming community.</p>
