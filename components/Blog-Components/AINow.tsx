@@ -4,7 +4,7 @@ const AINow = () => {
   return (
     <div className="flex flex-col items-center p-8 bg-gray-100 min-h-screen">
       <h1 className="text-3xl font-bold mb-4 text-center text-gray-800">Why AI is the Future And How I Implement That in My Code</h1>
-      <p className="text-lg text-gray-700 mb-4 text-center">Artificial Intelligence (AI) is transforming the world as we know it. From automating mundane tasks to enabling groundbreaking innovations, AI is the future. Here's why AI is so important and how I incorporate it into my coding projects.</p>
+      <p className="text-lg text-gray-700 mb-4 text-center">Artificial Intelligence (AI) is transforming the world as we know it. From automating mundane tasks to enabling groundbreaking innovations, AI is the future. Here&apos;s why AI is so important and how I incorporate it into my coding projects.</p>
       
       <h2 className="text-2xl font-semibold mb-2 text-gray-800">AI Revolutionizes Industries</h2>
       <p className="text-lg text-gray-700 mb-4">AI is revolutionizing industries by improving efficiency, accuracy, and productivity. In healthcare, AI helps diagnose diseases with high precision. In finance, it detects fraudulent activities. In everyday life, AI powers personal assistants like Siri and Alexa.</p>
@@ -28,7 +28,7 @@ const AINow = () => {
       <p className="text-lg text-gray-700 mb-4">AI algorithms require data to learn and make predictions. I collect relevant data and preprocess it by cleaning, normalizing, and splitting it into training and testing sets.</p>
 
       <h2 className="text-2xl font-semibold mb-2 text-gray-800">3. Model Training</h2>
-      <p className="text-lg text-gray-700 mb-4">Using the chosen AI framework, I train a model on the prepared data. This involves selecting an appropriate algorithm, tuning hyperparameters, and evaluating the model's performance.</p>
+      <p className="text-lg text-gray-700 mb-4">Using the chosen AI framework, I train a model on the prepared data. This involves selecting an appropriate algorithm, tuning hyperparameters, and evaluating the model&apos;s performance.</p>
 
       <h2 className="text-2xl font-semibold mb-2 text-gray-800">4. Integration into Applications</h2>
       <p className="text-lg text-gray-700 mb-4">Once the model is trained and evaluated, I integrate it into my applications. This could be a web app, a mobile app, or even a hardware device. The key is to ensure seamless interaction between the AI model and the user interface.</p>
