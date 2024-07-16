@@ -20,7 +20,7 @@ const NavLinks = ({ melody }: { melody?: string }) => {
         <Link href="/projects">Projects</Link>
       </li>
       <li>
-        <a href="/David-Cappel-Developer(1)" target="_blank">
+        <a href="/DavidCappel-Developer" target="_blank">
           Download CV
         </a>
       </li>
